@@ -4,5 +4,5 @@ Tenjin is a notebook app in development and is available for Windows and Linux (
 
 ## Installation
 
-Windows: Download the installer (.exe) and run it.
+Windows: Download the installer (.exe) and run it.  
 Linux: download the AppImage make it executable and run it.
